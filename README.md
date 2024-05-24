@@ -20,6 +20,8 @@ This project provides a comprehensive comparison of three AI strategies—Reinfo
 
 ## Usage
 Run the Jupyter notebook (Jupyter with Gymnasium package installed)
+    ```
     jupyter notebook deep_learning_taxi.ipynb
     jupyter notebook dl&ga_taxi.ipynb
     jupyter notebook reinforcement_learning_taxi.ipynb
+    ```
